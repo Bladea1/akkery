@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    width: 1920px;
+    height: 4542px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-block;
+}
+
+#header {
+    width: 1920px;
+    height: 68px;
+    background-color: #FEF6F4;
+    display: inline-block;
+    position: relative;
+}
+
+#nn{
+    display: inline-block;
+    width: 109px;
+    height: 39px;
+    font-size: 32px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#kat {
+    width: 64px;
+    height: 68px;
+    display: inline-block;
+    line-height: 64px;
+    margin-left: 20px;
+    border-radius: 15px;
+    font-weight: 400;
+}
+
+#mi {
+    line-height: 64px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 44px;
+    height: 68px;
+    display: inline-block;
+    font-weight: 400;
+}
+
+#ot {
+    line-height: 64px;
+    width: 61px;
+    height: 68px;
+    display: inline-block;
+    font-weight: 400;
+}
+
+.but:hover {
+    text-decoration: underline;
+}
+
+#we {
+    margin-left: 20px;
+    margin-top: 128px;
+    width: 1880px;
+    height: 876px;
+    background-color: #FEF6F4;
+}
+
+#o_nas {
+    width: 931px;
+    height: 757px;
+
+}
+
+.ots_on {
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 128px;
+}
+
+.pred {
+    font-size: 36px;
+    margin-bottom: 68px;
+}
+
+.ppred {
+    font-size: 24px;
+    margin-bottom: 77px;
+}
+
+.Bbrend {
+    font-size: 0;
+    display: inline-block;
+}
+
+.brend {
+    width: 295px;
+    height: 152px;
+    background-color: darkgrey;
+    display: inline-block;
+}
+
+#ser {
+    margin-left: 22px;
+    margin-right: 22px;
+}
