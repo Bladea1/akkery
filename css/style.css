@@ -70,6 +70,7 @@ a {
 
 .but:hover {
     text-decoration: underline;
+    color: gray;
 }
 
 #we {
